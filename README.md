@@ -1,5 +1,8 @@
 # webcrawler-olx - LUCAS HIDEKI ABE
 
+<h3> Projeto Introdutório trilha (K1-T9): Web Crawler </h3>
+O projeto é do programa de Aceleração da ZG Soluções que consistia no aprendizado de Web Crawler.
+
 Para este projeto, seu objetivo é desenvolver um Web Crawler para coletar dados do site OLX. Deve ser criado um bot/script para automatizar o seguinte processo:
 
     1. Entrar no site da OLX;
